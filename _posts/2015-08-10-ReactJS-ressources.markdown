@@ -16,3 +16,4 @@ categories: cheatsheet
 - [react-isomorphic-starterkit](https://github.com/RickWong/react-isomorphic-starterkit)
 - [ImmutableJS](https://github.com/facebook/immutable-js)
 - [Webpack How To](https://github.com/petehunt/webpack-howto)
+- [react-custom-scrollbars](http://react.rocks/example/react-custom-scrollbars)
