@@ -21,7 +21,7 @@ categories: cheatsheet
 
 - [NuclearJS](https://optimizely.github.io/nuclear-js/)
 - [Redux](https://github.com/gaearon/redux)
-- [Exemple auth0 authentication using flux and JWT](https://auth0.com/blog/2015/04/09/adding-aythentication-to-your-react-flux-app)
+- [Exemple auth0 authentication using flux and JWT](https://auth0.com/blog/2015/04/09/adding-authentication-to-your-react-flux-app)
 
 # JWT
 
