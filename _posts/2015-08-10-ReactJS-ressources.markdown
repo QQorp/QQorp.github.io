@@ -17,7 +17,7 @@ categories: cheatsheet
 - [react-isomorphic-starterkit](https://github.com/RickWong/react-isomorphic-starterkit)
 - [react-custom-scrollbars](http://react.rocks/example/react-custom-scrollbars)
 
-# FLux
+# Flux
 
 - [NuclearJS](https://optimizely.github.io/nuclear-js/)
 - [Redux](https://github.com/gaearon/redux)
