@@ -33,6 +33,7 @@ categories: cheatsheet
 - [Website about Functional programming and its goods](https://www.fpcomplete.com)
 - [Haskell, website](https://www.haskell.org)
 - [Erlang, fonctional language to distributed application](http://www.erlang.org)
+- [Learn Lisp, a super cool multi-paradigm language the hard way, it is a e-book](http://learnlispthehardway.org/)
 
 # Haskell
 
