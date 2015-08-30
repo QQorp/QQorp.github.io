@@ -45,5 +45,8 @@ categories: cheatsheet
 
 - [How to install npm properly with nvm](https://github.com/creationix/nvm)
 - [ImmutableJS](https://github.com/facebook/immutable-js)
+  - [Confenrece ImmutableJs](https://www.youtube.com/watch?v=I7IdS-PbEgI)
+  - [Conference about Immutability](https://www.youtube.com/watch?v=SiFwRtCnxv4)
 - [P2P in javascript](http://peerjs.com)
 - [Webpack How To](https://github.com/petehunt/webpack-howto)
+- [RethinkDB, open-source realtime Database](https://rethinkdb.com)
